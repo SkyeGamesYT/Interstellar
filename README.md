@@ -9,7 +9,6 @@
 > [!IMPORTANT]
 > If you fork this project, consider giving it a star in the original repository!
 
-**Join Our [Discord Community](https://discord.gg/interstellar) for support, more links, and an active community!**
 
 ## Features
 
@@ -129,8 +128,7 @@ As of January 1st, 2024, Replit is [no longer free](https://blog.replit.com/host
 
 If you encounter problems, open an issue on GitHub, and we'll address it promptly.
 
-> [!TIP]
-> If you're having trouble, don't hesitate to reach out to us on [Discord](https://discord.gg/interstellar) for personalized support.
+
 
 # Credits
 
